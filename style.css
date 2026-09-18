@@ -30,15 +30,15 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: white;
+    background-color: black;
     z-index: 2;
     width: 100%;
 }
 nav ul{
-    display: flex;
+    display: space;
 }
 nav li{
-    display: flex;
+    display: space;
     align-items: center;
     list-style: none;
     padding: 20px;
