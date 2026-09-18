@@ -1,5 +1,5 @@
 document.getElementById('hambuger').onclick = ()=>{
-    document.getElementById('medium').style.display = "block"
+    document.getElementById('medium').style.display = "white"
 };
 
 document.getElementById('cancel').onclick = ()=>{
