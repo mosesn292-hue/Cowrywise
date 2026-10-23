@@ -30,10 +30,10 @@ console.log(hover)
 
 
 
-// const close = document.querySelector('.cancel')
+// const close = JSON.parse document.querySelector('.cancel')
 
 
 
 
 
-// console.log()
+// console.log()400px 
